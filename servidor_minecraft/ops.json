@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "051c21d6-8d35-38b0-bc9c-8850d77141c2",
+    "name": "CarlitosBot2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "59abf095-a963-32d8-b1c6-7eaedbc09a1b",
+    "name": "carlosbot1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "72f571e4-8e83-31a5-b174-708b10e071c3",
+    "name": "Carlitosbot1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
